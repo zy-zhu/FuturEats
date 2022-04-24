@@ -5,7 +5,7 @@ An AR project focusing on exploring the future of urban interface &amp; food dat
 ## People
 FuturEats is a project by 
 * [Zhu Ziyuan](https://iam-zy.com/)
-* Wei Yuqi
+* [Wei Yuqi](https://www.yunqi-wei.com/about)
 
 Thanks to the support from 
 * [Biayna Bogosian](https://biaynabogosian.com/about)
